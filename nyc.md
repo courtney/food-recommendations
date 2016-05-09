@@ -52,6 +52,9 @@
 
 * Industry Kitchen http://industry-kitchen.com/ (Avi)
 
+## LES ##
+* Estela: 47 East Houston Street, http://www.estelanyc.com/, [dave friedman rec]
+
 
 ## Japanese Restaurants ##
 
@@ -118,7 +121,13 @@ http://ramenbymew.com/
 * Molly’s Pub and Shebeen: Midtown
 * Spyglass: midtown: http://spyglassnyc.com
 * Refinery Rooftop: midtown: refineryrooftopnyc.com
-* Dead Rabbit: 30 Water Street, deadrabbitnyc.com, [cocktails]
+* Dead Rabbit: 30 Water Street, deadrabbitnyc.com, [cocktails, dave friedman rec]
+* Attaboy: 134 Eldridge St, http://www.yelp.com/biz/attaboy-new-york, [cocktails, , dave friedman rec]
+
+
+http://www.taimfalafel.com/
+
+
 
 ## Burger Joints: ##
 
