@@ -7,7 +7,8 @@
 * http://www.timeout.com/newyork/restaurants/best-new-restaurants-the-10-hottest-eateries-in-nyc
 * https://thirstynyc.com/the-best-whiskey-bars-in-nyc/
 * http://sideways.nyc/
-* 
+
+
 ## Restaurants ##
 
 ### Gramercy/Flatiron ###
