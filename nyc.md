@@ -15,7 +15,7 @@
 
 * Craft: craftrestaurantsinc.com
 
-## Chelsea / West Village
+### Chelsea / West Village
 
 * Tipsy parsons: Chelsea, http://www.tipsyparson.com
 * Rocket Pig: Chelsea, pork sandwich
@@ -53,7 +53,7 @@
 
 * Industry Kitchen http://industry-kitchen.com/ (Avi)
 
-## LES ##
+### LES ###
 * Estela: 47 East Houston Street, http://www.estelanyc.com/, [dave friedman rec]
 
 
@@ -61,7 +61,7 @@
 
 http://ramenbymew.com/
 
-### Upper East Side###
+### Upper East Side ###
 * Sushi of Gari: sushiofgari.com
 * Yuko: 1531 York Ave, (81st), yukosushiyorkave.com
 * Sushi Seki: 1143 1st Ave, (62-63)
@@ -70,7 +70,7 @@ http://ramenbymew.com/
 
 * Takahachi Bakery: takahachi.net
 
-### Upper West Side###
+### Upper West Side ###
 * Sushi Hanna: 466 Amsterdam Ave (82-83) 
 
 ### Lower East Side ###
@@ -104,7 +104,7 @@ http://ramenbymew.com/
 * Fika: fikanyc.com 41 W 58th and other locations
 
 
-## Bars##
+## Bars ##
 * http://www.timeout.com/newyork/bars/50-best-new-york-bars-gramercy-flatiron
 * https://foursquare.com/tysongach/list/cocktail-kingdoms-best-new-york-city-bars
 
@@ -124,9 +124,6 @@ http://ramenbymew.com/
 * Refinery Rooftop: midtown: refineryrooftopnyc.com
 * Dead Rabbit: 30 Water Street, deadrabbitnyc.com, [cocktails, dave friedman rec]
 * Attaboy: 134 Eldridge St, http://www.yelp.com/biz/attaboy-new-york, [cocktails, , dave friedman rec]
-
-
-http://www.taimfalafel.com/
 
 
 
