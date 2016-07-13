@@ -1,14 +1,3 @@
-# NYC
-
-* Cocktail passport: http://boozemenus.com
-
-### References to check: ###
-* http://unlike.net/new-york/food
-* http://www.timeout.com/newyork/restaurants/best-new-restaurants-the-10-hottest-eateries-in-nyc
-* https://thirstynyc.com/the-best-whiskey-bars-in-nyc/
-* http://sideways.nyc/
-
-
 ## Restaurants ##
 
 ### Gramercy/Flatiron ###
@@ -356,3 +345,13 @@ Check:  http://www.worldsbestbars.com/city/new-york/index.htm
 * Seoul Garden: seoulgarden32.com
 * Kang Ho Dong Baekjeong: 1 E 32nd St, baekjeongnyc.com
 * Gaonnuri: 39th and Broadway, gaonnurinyc.com
+
+# NYC
+
+* Cocktail passport: http://boozemenus.com
+
+### References to check: ###
+* http://unlike.net/new-york/food
+* http://www.timeout.com/newyork/restaurants/best-new-restaurants-the-10-hottest-eateries-in-nyc
+* https://thirstynyc.com/the-best-whiskey-bars-in-nyc/
+* http://sideways.nyc/
